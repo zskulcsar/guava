@@ -1,0 +1,5 @@
+package: github.com/zsoltk-iw/guava
+import:
+- package: github.com/labstack/echo
+- package: github.com/spf13/cobra
+- package: gopkg.in/yaml.v2
